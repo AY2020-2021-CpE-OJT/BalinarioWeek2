@@ -1,2 +1,2 @@
 # BalinarioWeek2
-Creating API, express, and MongoDB
+Creating API using express, and MongoDB
